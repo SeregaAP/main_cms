@@ -1,0 +1,33 @@
+// ===== ОСНОВНЫЕ ЦВЕТА =====
+$primary: #2ecc71;      // Основной салатовый
+$primary-dark: #27ae60; // Темнее на 10%
+$primary-light: #58d68d;// Светлее на 10%
+$primary-super-light: #bdf3d3;// Светлее на 10%
+
+// ===== НЕЙТРАЛЬНЫЕ =====
+$white: #ffffff;
+$gray-light: #f8fafc;
+$gray: #d1dbe8;
+$gray-dark: #64748b;
+$black: #1e293b;
+
+// ===== СИСТЕМНЫЕ =====
+$success: #90f5ba;
+$success_txt: #155724;
+$warning: #f59e0b;
+$error: #ef4444;
+$info: #3b82f6;
+
+// ===== ФОНОВЫЕ =====
+$bg-body: $gray-light;
+$bg-card: $white;
+
+// ===== ТЕКСТ =====
+$text: $black;
+$text-light: $gray-dark;
+$text-inverse: $white;
+
+// ===== КОМПОНЕНТЫ =====
+$sidebar-bg: $black;
+$sidebar-text: #cbd5e1;
+$topbar-bg: $white;
